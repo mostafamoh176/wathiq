@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481410432721",
+    "project_id": "wathiq-adfa5",
+    "storage_bucket": "wathiq-adfa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481410432721:android:cfbd361d5d564467c44ff0",
+        "android_client_info": {
+          "package_name": "com.example.theka_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACiiM0cquBd4_WcOyhxtPhwAQid81Pk6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
