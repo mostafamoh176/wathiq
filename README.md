@@ -7,12 +7,8 @@ This is the task of thikat elengaz company as a flutter developer.
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#Architure)
-- [Usage](#State_Managment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Architure](#Architure)
+- [State Managment](#State_Managment)
 
 ## Features
 there are 6 main feature ,
